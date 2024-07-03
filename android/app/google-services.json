@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "1061829821598",
-    "project_id": "firebase-coba-0502",
-    "storage_bucket": "firebase-coba-0502.appspot.com"
+    "project_number": "138980050488",
+    "project_id": "fir-0072",
+    "storage_bucket": "fir-0072.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1061829821598:android:8614a7c08d2fd38d64a78f",
+        "mobilesdk_app_id": "1:138980050488:android:41b0ebf8636929963248cd",
         "android_client_info": {
           "package_name": "com.example.flutterlist"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAXHlmWO3K6rf-30B86gGzCiGWNW7HrAcY"
+          "current_key": "AIzaSyCd-bQG2neeT51XApyrP6LDSCwOsj5KteM"
         }
       ],
       "services": {
